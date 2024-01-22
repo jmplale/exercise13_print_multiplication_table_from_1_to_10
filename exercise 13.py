@@ -6,3 +6,4 @@ def product(number_one, number_two):
         for multiplier in range(number_one,number_two):
             print(multiplicand * multiplier, end=" ")
             print(" ")
+    return True
