@@ -7,3 +7,6 @@ def product(number_one, number_two):
             print(multiplicand * multiplier, end=" ")
             print(" ")
     return True
+
+# run the program
+product(1, 11)
