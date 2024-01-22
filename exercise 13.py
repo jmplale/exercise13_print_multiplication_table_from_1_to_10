@@ -5,7 +5,7 @@ def product(number_one, number_two):
         # use a for loop inside a for loop
         for multiplier in range(number_one,number_two):
             print(multiplicand * multiplier, end=" ")
-            print(" ")
+        print(" ")
     return True
 
 # run the program
